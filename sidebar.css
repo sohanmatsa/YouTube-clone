@@ -23,8 +23,8 @@
 .sidebar-link:hover{
     background-color: rgb(235, 233, 233);
 }
-
-.sidebar-link img{
+ 
+.sidebar-link img{  
     height: 25px;
     margin-bottom: 5px;
 }
