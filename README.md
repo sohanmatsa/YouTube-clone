@@ -1,2 +1,9 @@
 # YouTube-clone
-I am going to create an YouTube clone using HTML &amp; CSS
+created YouTube clone using HTML &amp; CSS
+
+Concepts used:
+  
+  Grid 
+  Flexbox
+ 
+ 
