@@ -45,7 +45,13 @@
 
 }
 
-@media (max-width: 750px) {
+@media (max-width: 550px){
+    .video-grid{
+        grid-template-columns: 1fr;
+    }
+}
+
+@media (min-width: 550px) and (max-width:750px) {
     .video-grid{
         grid-template-columns: 1fr 1fr;
     }
